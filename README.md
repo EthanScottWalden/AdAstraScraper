@@ -1,4 +1,4 @@
-# AdAstra Scraper
+# Ad Astra Scraper
 
 This program was created from **Feburary to April 2025** for the Empty Room Junior Design project. 
 
